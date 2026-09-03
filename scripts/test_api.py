@@ -26,3 +26,6 @@ print(response.choices[0].message.content)
 # This is a simple comment to try a new commit on GitHub
 # Essentiall bs
 # I am hoping against hope that the eagerness of the AI abates...
+
+def kick_ass():
+    return "This new branch kicks ass!"
