@@ -34,8 +34,8 @@ across specialized roles, producing more faithful and structurally sound outputs
 
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
-   cd book-summarizer
+   git clone https://github.com/Palaiologan/AI_sandbox.git
+   cd projects/book_summary
 
 2. Create and activate a virtual environment
     ```bash
